@@ -1,0 +1,49 @@
+h1{
+    background-color: #311313;
+    color: white;
+    margin: 0 auto;
+    width: fit-content ;
+    padding: 10px;
+}
+
+.first{
+    border: 5px solid red;
+    width: fit-content;
+    margin: 40px auto;
+    background-color: #000000;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+}
+
+.second{
+    background-color: #1FE8B7;
+    width: fit-content;
+    margin: 15px 20px 25px 20px;
+    color: #000000;
+    padding: 30px 20px;
+}
+
+.third{
+    background-color: #1FE8B7;
+    width: fit-content;
+    margin: 15px 20px 15px 20px;
+    color: #000000;
+    padding: 30px 20px;
+}
+
+.sc{
+    padding-bottom: 6px;
+}
+
+.frst{
+    word-spacing: 10px;
+}
+
+.scnd{
+    word-spacing: 20px;
+}
+
+body{
+    background-color: #2A5D5A;
+}
